@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;007_19_PWM_SERVO_MOTOR_CONTROL&apos; to &apos;007_19_PWM_SERVO_MOTOR_CONTROL(!)&apos;" description="Rename resource &apos;007_19_PWM_SERVO_MOTOR_CONTROL&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/007_19_PWM_SERVO_MOTOR_CONTROL" name="007_19_PWM_SERVO_MOTOR_CONTROL(!)" stamp="1656867605228" updateReferences="true"/>
+</session>

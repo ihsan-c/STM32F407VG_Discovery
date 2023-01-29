@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;006_1_STDp_DAC&apos; to &apos;006_1_STDP_DAC&apos;" description="Rename resource &apos;006_1_STDp_DAC&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/006_1_STDp_DAC" name="006_1_STDP_DAC" stamp="1650206772535" updateReferences="true"/>
+</session>

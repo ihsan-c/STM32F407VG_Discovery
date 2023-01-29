@@ -1,0 +1,7 @@
+13:11:04 **** Incremental Build of configuration Debug for project 005_6_MULTI_ADC_INT_TEMP ****
+Info: Internal Builder is used for build
+arm-atollic-eabi-objcopy.exe -O ihex 005_6_MULTI_ADC_INT_TEMP.elf 005_6_MULTI_ADC_INT_TEMP.hex 
+Info: Parallel threads used: 0
+
+13:11:04 Build Finished (took 320ms)
+
